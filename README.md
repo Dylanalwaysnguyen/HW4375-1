@@ -1,5 +1,7 @@
 # HW4375-1
 
+Dylan Nguyen & Zain Naved
+
 log 
 #1
 sgd = SGDRegressor(max_iter=1000, tol=1e-3, learning_rate='adaptive')
